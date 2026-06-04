@@ -100,9 +100,3 @@ You can verify the server is working before connecting the phone by opening `web
 - Real-time 3D object detection by fusing YOLOv8 detections with MiDaS depth estimates.
 - PyTorch optimizations tuned the pipeline for low-end Android devices, targeting sub-100 ms latency.
 - A voice guidance system that converts spatial detection data into directional audio cues.
-
----
-
-## License
-
-_Add a license here (e.g. MIT) if you'd like others to use the project._
